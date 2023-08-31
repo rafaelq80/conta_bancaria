@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\ContaBancaraia\\Conta_Bancaria.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\Conta_Bancaria\\Conta_Bancaria.csproj",
       "projectName": "Conta_Bancaria",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\ContaBancaraia\\Conta_Bancaria.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\Conta_Bancaria\\Conta_Bancaria.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\ContaBancaraia\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\conta_bancaria\\Conta_Bancaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

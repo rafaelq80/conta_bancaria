@@ -12,7 +12,7 @@ namespace Conta_Bancaria
 
             int opcao;
 
-            while (true)
+           while (true)
             {
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Yellow;

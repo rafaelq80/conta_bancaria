@@ -12,3 +12,17 @@ C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\ContaBancaraia\obj\Debu
 C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\ContaBancaraia\obj\Debug\net7.0\Conta_Bancaria.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\ContaBancaraia\obj\Debug\net7.0\Conta_Bancaria.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\ContaBancaraia\obj\Debug\net7.0\ref\Conta_Bancaria.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\bin\Debug\net7.0\Conta_Bancaria.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\bin\Debug\net7.0\Conta_Bancaria.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\bin\Debug\net7.0\Conta_Bancaria.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\bin\Debug\net7.0\Conta_Bancaria.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\bin\Debug\net7.0\Conta_Bancaria.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\refint\Conta_Bancaria.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\Conta_Bancaria.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\conta_bancaria\Conta_Bancaria\obj\Debug\net7.0\ref\Conta_Bancaria.dll
