@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Conta_Bancaria.Model
 {
-    public class Conta
+    public abstract class Conta
     {
         /*Atributos*/
         private int numero;

@@ -13,24 +13,6 @@ namespace Conta_Bancaria
 
             int opcao;
 
-            Conta c1 = new Conta(1, 123, 1, "Gaspar", 1000000.00M);
-
-            c1.Visualizar();
-
-            c1.SetNumero(345);
-
-            c1.Visualizar();
-
-            c1.Sacar(1000);
-
-            c1.Visualizar();
-
-            c1.Depositar(5000);
-
-            c1.Visualizar();
-
-            Console.WriteLine();
-
             ContaCorrente cc1 = new ContaCorrente(2, 123, 1, "Samantha", 100000000.00M, 1000.00M);
 
             cc1.Visualizar();
