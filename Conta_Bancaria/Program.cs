@@ -166,7 +166,9 @@ namespace Conta_Bancaria
                                     Console.WriteLine("Digite o Limite da Conta: ");
                                     limite = Convert.ToDecimal(Console.ReadLine());
 
-                                    contas.Atualizar(new ContaCorrente(numero, agencia, tipo, titular, saldo, limite));
+                                    ContaCorrente cc2 = new ContaCorrente(numero, agencia, tipo, titular, saldo, limite);
+
+                                    contas.Atualizar(cc2);
                                     break;
                                 case 2:
                                     Console.WriteLine("Digite o dia do Aniversário da Conta: ");
